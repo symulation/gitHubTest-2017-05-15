@@ -9,7 +9,3 @@
 *italics*
 
 **bold**
-
-Test
-
-THis is some test content in the readme file
