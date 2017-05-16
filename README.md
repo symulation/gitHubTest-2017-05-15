@@ -5,8 +5,8 @@
 ### third level title
 
 1. FIRST ITEM
-2. second item
-2. THIRD item
+2. SECOND ITEM
+2. THIRD ITEM
 
 *italics*
 
