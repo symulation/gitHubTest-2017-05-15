@@ -2,16 +2,15 @@
 
 ## second level title
 
-1. FIRST item
-2. second item
-2. THIRD item
+### third level title
+
+1. FIRST ITEM
+2. SECOND ITEM
+2. THIRD ITEM
 
 *italics*
 
 **bold**
-
-
-Making a change to show branches
 
 
 Another change.
