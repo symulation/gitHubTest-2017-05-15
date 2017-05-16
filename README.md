@@ -16,6 +16,5 @@ Making a change to show branches
 
 Another change.
 
-Change from the Desktop.
 
 Change from MacDown
